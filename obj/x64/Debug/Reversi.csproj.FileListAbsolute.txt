@@ -1,0 +1,71 @@
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\Reversi.chm
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\Reversi.exe.config
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\Reversi.exe
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\Reversi.pdb
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\FullSailAFI.GamePlaying.AboutDialog.resources
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\FullSailAFI.GamePlaying.ConfirmDialog.resources
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\FullSailAFI.GamePlaying.OptionsDialog.resources
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\FullSailAFI.GamePlaying.ReversiForm.resources
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\FullSailAFI.GamePlaying.SquareControl.resources
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\FullSailAFI.GamePlaying.StatisticsDialog.resources
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\Reversi.csproj.CopyComplete
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\Reversi.exe
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\obj\x64\Debug\Reversi.pdb
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\Reversi.chm
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\Reversi.exe.config
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\Reversi.exe
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\Reversi.pdb
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\enzoh\Desktop\D - Reversi\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.AboutDialog.resources
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.ConfirmDialog.resources
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.OptionsDialog.resources
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.ReversiForm.resources
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.SquareControl.resources
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.StatisticsDialog.resources
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\Reversi.csproj.CopyComplete
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\Reversi.exe
+C:\Users\enzoh\Desktop\D - Reversi\obj\x64\Debug\Reversi.pdb
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\Reversi.chm
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\Reversi.exe.config
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\Reversi.exe
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\Reversi.pdb
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\Enzo\Desktop\D - Reversi\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\Reversi.csproj.AssemblyReference.cache
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\Reversi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.AboutDialog.resources
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.ConfirmDialog.resources
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.OptionsDialog.resources
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.ReversiForm.resources
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.SquareControl.resources
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\FullSailAFI.GamePlaying.StatisticsDialog.resources
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\Reversi.csproj.CopyComplete
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\Reversi.exe
+C:\Users\Enzo\Desktop\D - Reversi\obj\x64\Debug\Reversi.pdb

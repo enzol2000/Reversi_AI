@@ -1,0 +1,21 @@
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\obj\x64\Debug\CoreAI.csprojAssemblyReference.cache
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\obj\x64\Debug\CoreAI.csproj.CopyComplete
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\obj\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\CoreAI\obj\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\obj\x64\Debug\CoreAI.csproj.AssemblyReference.cache
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\obj\x64\Debug\CoreAI.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\obj\x64\Debug\CoreAI.csproj.CopyComplete
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\obj\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\CoreAI\obj\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb

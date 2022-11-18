@@ -1,0 +1,37 @@
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\obj\x64\Debug\StudentAI.csprojAssemblyReference.cache
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\obj\x64\Debug\StudentAI.csproj.CopyComplete
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\obj\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\enzoh\Desktop\artificial-intelligence-course\Lab Projects\D - Reversi\Project\StudentAI\obj\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\obj\x64\Debug\StudentAI.csprojAssemblyReference.cache
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\obj\x64\Debug\StudentAI.csproj.CopyComplete
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\obj\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\enzoh\Desktop\D - Reversi\StudentAI\obj\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.ExampleAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\bin\x64\Debug\Graphviz4Net.dll
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\bin\x64\Debug\FullSailAFI.GamePlaying.CoreAI.pdb
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\bin\x64\Debug\Graphviz4Net.pdb
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\obj\x64\Debug\StudentAI.csproj.AssemblyReference.cache
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\obj\x64\Debug\StudentAI.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\obj\x64\Debug\StudentAI.csproj.CopyComplete
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\obj\x64\Debug\FullSailAFI.GamePlaying.StudentAI.dll
+C:\Users\Enzo\Desktop\D - Reversi\StudentAI\obj\x64\Debug\FullSailAFI.GamePlaying.StudentAI.pdb
